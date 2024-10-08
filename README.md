@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**RizaSatt/RizaSatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
@@ -26,7 +12,9 @@ Here are some ideas to get you started:
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RizaSatt&theme=cobalt&show_icons=true&count_private=true" />
+ <a href="https://github.com/RizaSatt">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RizaSatt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RizaSatt&theme=dark&hide_border=true" />
 
