@@ -41,6 +41,6 @@
 <p>
   
 
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RizaSatt&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </p>
