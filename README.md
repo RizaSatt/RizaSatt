@@ -33,14 +33,5 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-                                                                                  
-
-<br>
-
-<p>
   
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RizaSatt&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</p>
+![Snake animation](https://github.com/RizaSatt/RizaSatt/blob/output/github-contribution-grid-snake.svg)
